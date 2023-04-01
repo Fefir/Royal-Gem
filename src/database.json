@@ -1,0 +1,39 @@
+{
+    "Products":[
+        {
+            "nazwa":"Ładny diament",
+            "img": "src/assets/D5.png",
+            "cena": 200,
+            "dostepnosc": "tak lol",
+            "opis": "To jest dobra rzecz, kupuj stary"
+        },
+        {
+            "nazwa":"Ładny diament",
+            "img": "src/assets/D5.png",
+            "cena": 200,
+            "dostepnosc": "tak lol",
+            "opis": "To jest dobra rzecz, kupuj stary"
+        },
+        {
+            "nazwa":"Ładny diament",
+            "img": "src/assets/D5.png",
+            "cena": 200,
+            "dostepnosc": "tak lol",
+            "opis": "To jest dobra rzecz, kupuj stary"
+        },
+        {
+            "nazwa":"Ładny diament",
+            "img": "src/assets/D5.png",
+            "cena": 200,
+            "dostepnosc": "tak lol",
+            "opis": "To jest dobra rzecz, kupuj stary"
+        },
+        {
+            "nazwa":"Ładny diament",
+            "img": "src/assets/D5.png",
+            "cena": 200,
+            "dostepnosc": "tak lol",
+            "opis": "To jest dobra rzecz, kupuj stary"
+        }
+    ]
+}
